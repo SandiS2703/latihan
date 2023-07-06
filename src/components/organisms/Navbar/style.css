@@ -1,0 +1,11 @@
+.navbar-basic {
+  background-color: #D8C4B6;
+  display: flex;
+  justify-content: space-between;
+  padding: 8px 0px;
+}
+
+.menu-item{
+    columns: 100px 6;
+    list-style: none;
+}
